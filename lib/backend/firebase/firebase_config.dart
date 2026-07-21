@@ -5,13 +5,13 @@ Future initFirebase() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-            apiKey: "AIzaSyAQduaHGf6FI5M89wEQmQ35K5Eo04A6WnU",
-            authDomain: "eburon-bd040.firebaseapp.com",
-            projectId: "eburon-bd040",
-            storageBucket: "eburon-bd040.firebasestorage.app",
-            messagingSenderId: "30841056766",
-            appId: "1:30841056766:web:ec5096088ecd16b237e4af",
-            measurementId: "G-GRN6HYJNC5"));
+            apiKey: "AIzaSyCm9fMcbhiPwy7xmZCjO8V83uaZNScES64",
+            authDomain: "beatrice-os.firebaseapp.com",
+            projectId: "beatrice-os",
+            storageBucket: "beatrice-os.firebasestorage.app",
+            messagingSenderId: "112636717363",
+            appId: "1:112636717363:web:202bf0eb68ed80acb93646",
+            measurementId: "G-Q82BHFCNZT"));
   } else {
     await Firebase.initializeApp();
   }

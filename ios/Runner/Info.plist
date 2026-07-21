@@ -16,6 +16,12 @@
 	<string>Beatrice</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>nl</string>
+		<string>fr</string>
+	</array>
 
 	<key>CFBundleShortVersionString</key>
 	<string>$(FLUTTER_BUILD_NAME)</string>
@@ -28,7 +34,7 @@
             <string>Editor</string>
             <key>CFBundleURLSchemes</key>
             <array>
-                <string>com.googleusercontent.apps.30841056766-b3506ri77buvmlgjkjni8ega0ljd7qv0</string>
+                <string>com.googleusercontent.apps.112636717363-tdq97ep0u5g4mqeeqpg0hulpvra394lh</string>
                 
             </array>
         </dict>

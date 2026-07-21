@@ -5,7 +5,6 @@ import 'package:provider/provider.dart';
 
 import '/auth/base_auth_user_provider.dart';
 
-import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 
 import '/index.dart';
@@ -295,10 +294,10 @@ class FFRoute {
               : builder(context, ffParams);
           final child = appStateNotifier.loading
               ? Container(
-                  color: FlutterFlowTheme.of(context).secondaryBackground,
+                  color: Colors.transparent,
                   child: Center(
                     child: Image.asset(
-                      'assets/images/logo.png',
+                      'assets/images/logo-beatrice-removebg-preview.png',
                       width: 220.0,
                       height: 220.0,
                       fit: BoxFit.cover,
