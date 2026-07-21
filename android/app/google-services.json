@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "30841056766",
+    "firebase_url": "https://eburon-bd040-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "eburon-bd040",
+    "storage_bucket": "eburon-bd040.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30841056766:android:32cb6fd2ec3ac42837e4af",
+        "android_client_info": {
+          "package_name": "ai.eburon.translator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30841056766-c51bd32dgh9bt0h5fu9kcgpr2o80gend.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.eburon.translator",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "30841056766-ik56jip3rg7bl0q0u969iq7s9u1id9nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2nyZADDl9oq501-t4ZDt9q2Ru9zOUjWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30841056766-ik56jip3rg7bl0q0u969iq7s9u1id9nl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30841056766-b3506ri77buvmlgjkjni8ega0ljd7qv0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ai.eburon.translator"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
